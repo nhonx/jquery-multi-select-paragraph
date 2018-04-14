@@ -1,5 +1,5 @@
 # jquery-multi-select-paragraph
- JQuery plugin allow tủninh a list of <p> paragraphs into a multiselect list. 
+ JQuery plugin allow turning a list of <p> paragraphs into a multiselect list. 
 ## Usages:
  - Put your paragraphs in a div element. Currently we only support single list of paragraph (no nesting)
  - Call $("#div").pselect();
