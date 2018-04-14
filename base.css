@@ -21,6 +21,8 @@ body {
     padding: 8px 14px;
     font-size: 15px;
     color: #fff;
+    top:150px;
+    position:absolute;
   }
   
   #banner-message.alt {
